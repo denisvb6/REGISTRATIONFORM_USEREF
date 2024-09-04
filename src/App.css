@@ -1,0 +1,26 @@
+
+.regform {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background: #969499;
+	min-height: 100vh;
+}
+
+.errorLabel {
+	color: rgb(167, 11, 11);
+}
+
+.field {
+	margin: 5px;
+}
+
+.button_f {
+	margin-top: 15px;
+	padding: .5em;
+	background: #524d5a;
+	color: white;
+}
+
+
